@@ -1,0 +1,201 @@
+item_id,subject_candidates,predicted_subjects
+332584301,"{'little baby bum wheels': 0.84829086, 'interactive ride-on toy helps toddlers': 0.4723305, 'littlebaby bum': 0.43635756}",['little baby bum wheels']
+17219363,"{'slow cooker to potlucks': 0.56489605, 'digital panel': 0.53630686, 'slow cookers': 0.99957854, 'slow cooker': 0.9753028}","['slow cooker to potlucks', 'slow cookers', 'slow cooker']"
+506746379,{},[]
+962279894,"{'root vegetable seed': 0.95844024, 'radish': 0.52110785, 'light switch cover': 0.38387677}","['root vegetable seed', 'light switch cover']"
+48810132,{'eye shellac': 0.9720102},['eye shellac']
+700178053,{},[]
+366615064,"{'artwork': 0.9470451, 'beverage': 0.6866967, 'cans': 0.8478165, 'capacity': 0.8197231, 'dimension': 0.49537227}",[]
+639568538,"{'hand soap': 0.98587006, 'soap': 0.5193052}",['hand soap']
+275773415,"{'archery target arrow-hunting arrow': 0.240538, 'archery target': 0.97823244, 'suitable': 0.95976746}","['archery target arrow-hunting arrow', 'archery target']"
+758387625,"{'horn and activate lights': 0.5241412, 'baby einstein': 0.9991135, 'symphony': 0.68289095, 'activity walkers': 0.99723816, 'elliptical frame': 0.7391611, 'baby walker': 0.44785336, 'toy station': 0.6955547, 'walker': 0.7738519, 'symphony walker': 0.5050519, 'soundtrack': 0.9891417}",['baby einstein']
+19399932,"{'ice cream': 0.4320045, 'ice cream bar': 0.9966031, ""and mandm's"": 0.98811215, 'ice cream bars': 0.9991116}","['ice cream bar', 'ice cream bars']"
+285254297,"{'t-shirt': 0.92167026, 'comfort': 0.60873586, 't-shirts': 0.99927926, 'shirt eliminates ride-up': 0.47948048}",['t-shirts']
+15922395,"{'bath toys': 0.9011771, 'bath toy floats': 0.7575425, 'ocean squirts': 0.98802924, 'ocean friends': 0.45942938, 'bath toy': 0.96437514}","['bath toys', 'bath toy floats', 'ocean squirts', 'bath toy']"
+11045838,"{'scrubbing strip': 0.5218698, 'magic eraser': 0.63960034, 'wetjet': 0.99937266, 'mopping pad': 0.87574786, 'mop pads': 0.9958411}","['scrubbing strip', 'wetjet', 'mopping pad', 'mop pads']"
+811109802,"{'pictures are': 0.5754962, 'end table': 0.99942416, 'decor': 0.7435041}",['end table']
+53374051,{'artificial intelligence': 0.97421336},['artificial intelligence']
+489657815,{'oven pro': 0.44539657},['oven pro']
+235951291,"{'switch': 0.85730445, 'accessories': 0.6258094}",['switch']
+486103108,{'waffle maker': 0.9987229},['waffle maker']
+601054792,{'hamster drinking bottle': 0.5523167},['hamster drinking bottle']
+743802095,"{'mandala': 0.6355174, 'stained glass': 0.5105421, 'tank top': 0.6070874}",['stained glass']
+946027892,"{'coffee': 0.47578293, 'k-cup': 0.91509795}","['coffee', 'k-cup']"
+273698897,"{'parfum': 0.36533785, 'perfume': 0.9769785}","['parfum', 'perfume']"
+873749413,"{'funtainer': 0.9102499, 'vacuum': 0.6176231, 'water bottle': 0.9966772}",['water bottle']
+970042430,{},[]
+221737649,"{'l.o.l. surprise!': 0.9986734, 'doll': 0.7596224, 't-shirt': 0.9954765}","['l.o.l. surprise!', 'doll']"
+13726610,"{'swimming pool': 0.7853919, 'floating lounger chair': 0.2524883}",['floating lounger chair']
+123496994,{'cutting board': 0.9976948},['cutting board']
+409830873,"{'shipping labels': 0.6446383, 'labels': 0.7425135}",['shipping labels']
+705893055,{'bathtub repair kit': 0.8123541},['bathtub repair kit']
+658967393,"{'patio furniture': 0.9727743, 'bistro chairs': 0.91088206}","['patio furniture', 'bistro chairs']"
+134993127,{'coloring book': 0.5810468},['coloring book']
+375534284,"{'barbie': 0.9986848, 'doll': 0.99920017}",['barbie']
+55207922,{'shampoo': 0.9740043},['shampoo']
+23728681,{},[]
+986171040,{'posters': 0.99931455},[]
+497912042,"{'bedding duvet cover': 0.9721993, 'duvet cover': 0.9924943, 'quilt cover': 0.9855899}","['bedding duvet cover', 'duvet cover', 'quilt cover']"
+569986796,"{'quilt cover': 0.9880104, 'duvet cover': 0.993735}","['quilt cover', 'duvet cover']"
+192888720,"{'bop it!': 0.99991226, 'game': 0.7430589}",['bop it!']
+166060736,{'vacuum bags': 0.9971944},['vacuum bags']
+790559675,{'table lamp base': 0.6780511},['table lamp base']
+134552805,{'ink cleaning cartridges': 0.482867},['ink cleaning cartridges']
+974925188,{'canopy': 0.99448395},['canopy']
+668794306,{'usb cable cord': 0.97372293},['usb cable cord']
+43330091,{'bounce adapter': 0.89230704},['bounce adapter']
+329350705,{'instant film': 0.94673765},['instant film']
+435544822,{},[]
+635259094,{'conditioner': 0.9088135},[]
+112578578,{'slippers': 0.9990725},['slippers']
+866829685,{},[]
+971603647,"{'school supplies': 0.8248069, 'pencil pen case': 0.28134724}","['school supplies', 'pencil pen case']"
+37842045,{'storage cart': 0.93291175},['storage cart']
+748092854,"{'office chair': 0.94348747, 'desk': 0.3693274}",['office chair']
+51745963,"{'london eau': 0.79975057, 'parfum': 0.72397697, 'perfume': 0.9710948}","['parfum', 'perfume']"
+756479316,{'gazebo canopy': 0.980907},['gazebo canopy']
+569855340,"{'spark plug': 0.98989856, 'compact': 0.755451, 'snow blowers': 0.985308}","['spark plug', 'snow blowers']"
+128560705,"{'table runners': 0.943734, 'tablecloth': 0.9999132}","['table runners', 'tablecloth']"
+49376403,"{'throw': 0.99721056, 'pillow': 0.5271899}","['throw', 'pillow']"
+234988055,{'humidifier': 0.99831533},['humidifier']
+140153374,{'stove pipe elbow': 0.58088225},['stove pipe elbow']
+540346531,{'beads/ finding piece': 0.74468774},['beads/ finding piece']
+237811099,"{'pants': 0.99955285, 'jogger': 0.98921627}","['pants', 'jogger']"
+482075323,{},[]
+474699475,{'glue fingernail manicure set': 0.35080612},['glue fingernail manicure set']
+793467204,{'tote bag string': 0.639424},['tote bag string']
+613678148,{'cotton candy': 0.6064445},['cotton candy']
+547122674,{'bench': 0.4664323},['bench']
+203585215,{'sweatshirt': 0.99679315},['sweatshirt']
+838698450,"{'writing will not fade or wear': 0.61268145, 'credit card': 0.99651754, 'wallet': 0.5075139, 'characters': 0.79788446, 'wallet card': 0.97315663, 'business card': 0.9993631}",['wallet card']
+929420282,"{'electrode pads': 0.9983934, 'tens unit': 0.94651103, 'massager': 0.7273677, 'massager unit': 0.8954868, 'tens sends': 0.45607322, 'electrodes cables': 0.6172395, 'ac adapter': 0.45731625, 'pads': 0.8138724, 'tens machine': 0.50300235}","['tens unit', 'massager', 'massager unit', 'tens sends', 'ac adapter', 'tens machine']"
+729453721,{},[]
+249255945,"{'camping lamp': 0.9277596, 'light lamp': 0.9573851, 'flashlight all-in-one': 0.7640434, 'backup usb charger': 0.96557057, 'power cord': 0.90224, 'usb cable': 0.6683109, 'lamp': 0.99620587, 'light lamp lantern': 0.22127765}","['camping lamp', 'light lamp lantern']"
+878358867,"{'repair screwdriver': 0.95769835, 'feature': 0.7232596, 'security screwdriver': 0.94498944, 'opening pick': 0.3926441, 'screwdriver': 0.99865526, 'complete repair kit': 0.72205424, 'screwdrivers': 0.49235478, 'tweezer': 0.99569964, 'material': 0.88055575, 'pry tools': 0.9857892, 'crowbar': 0.94437414, 'controller': 0.9413224, 'warranty': 0.646419, 'durable construction': 0.6506355, 'widely application: repair kit': 0.81946754}","['repair screwdriver', 'security screwdriver', 'screwdriver', 'complete repair kit', 'controller']"
+499201917,"{'accessories': 0.7292104, 'bread': 0.33860242, 'cake batters': 0.6940135, 'stand mixer': 0.9618282}",['stand mixer']
+364322474,"{'marshmallow melt': 0.97489834, 'cream': 0.54644823, 'marshmallowy': 0.30130458, 'shea butters': 0.8396378}","['marshmallow melt', 'shea butters']"
+10805024,"{'ribbon': 0.7733262, 'treats': 0.8263355, 'dream frozen': 0.50303924, 'treat bar': 0.86403334, 'one delicious, ice': 0.7300112, 'the smooth and ice creamy': 0.65408707, 'family favorite': 0.45417908, 'classic orange': 0.50173897, 'ice cream bars': 0.9991116, 'ice cream truck': 0.5943434}","['ribbon', 'dream frozen', 'treat bar', 'classic orange', 'ice cream bars']"
+54358575,"{'book': 0.8403692, 'books': 0.561126}",[]
+21053176,"{'blood oranges': 0.9973466, 'weapons': 0.78970003}",['blood oranges']
+147521308,{},[]
+436661326,"{'game': 0.3445574, 'card game': 0.3585924}","['game', 'card game']"
+511236028,"{'bow': 0.6945852, 'rack': 0.97187394, 'bow rack': 0.987838, 'archery bow rack': 0.73611856, 'screw in pegs folds': 0.16572994, 'crossbow': 0.39947543}","['bow rack', 'archery bow rack']"
+394629968,{'washer direct drive coupler': 0.8561451},['washer direct drive coupler']
+393873888,"{'upright safeties': 0.72100973, 'weight bench': 0.98897195, 'weight benches': 0.99785465, 'leg developer': 0.9552528, 'vinyl seats': 0.44599292}","['weight bench', 'weight benches']"
+110812951,"{'desserts': 0.99247915, 'muffins': 0.48599908, 'book': 0.43582585, 'pineapple dishes': 0.2342779}",['pineapple dishes']
+441900087,{},[]
+644849489,"{'instax': 0.9942071, 'film': 0.72519493, 'film ensures': 0.37967375, 'instant film': 0.9408404}","['instax', 'instant film']"
+139225109,"{'float and play': 0.8633505, 'bubbles bath toy': 0.664944, 'bath toys': 0.99803543}","['float and play', 'bubbles bath toy', 'bath toys']"
+224449805,"{'kick your game': 0.7206358, 'controller': 0.93968636}","['kick your game', 'controller']"
+892983999,"{'lunchbox': 0.6530571, 'ice box': 0.6608386}","['lunchbox', 'ice box']"
+36556872,{},[]
+606722881,"{'replacement top grill': 0.9258637, 'grill replacement grate': 0.4660297, 'features replacement top grill': 0.37110436}","['replacement top grill', 'grill replacement grate', 'features replacement top grill']"
+145654206,"{'stickers': 0.4386166, 'pictures': 0.8109306, 'shimmer and shine': 0.9994718, 'bracelet': 0.22336307}",['shimmer and shine']
+575875873,"{'art print': 0.8890173, 'posters': 0.99997616, 'poster art print': 0.8273247, 'frame': 0.53104836}",['poster art print']
+766255510,"{'table decor accessories': 0.71672493, 'sturdy': 0.67026275, 'dining setting': 0.7942279, 'dining room table': 0.6572573, 'kitchen table': 0.7719012, 'napkins': 0.9931656, 'napkin': 0.99931455, 'digital printing technology': 0.5069194, 'settings': 0.7618279, 'soft feeling and silky touch': 0.72303414}","['napkins', 'napkin']"
+45850901,{'bulbs': 0.64171493},['bulbs']
+227793057,"{'remote fit': 0.6525687, 'remote': 0.9616181}",['remote fit']
+943092914,"{'batteries': 0.97136897, 'toy': 0.60268766, 'the play and learn': 0.9930188}","['toy', 'the play and learn']"
+317907403,"{'towel wrap': 0.8842155, 'l.o.l. surprise!': 0.9928692, 'absorbent and feels': 0.4642677, 'towels': 0.9770689, 'the l. o. l. surprise': 0.9936345, 'lol surprise': 0.9999294, 'dolls': 0.99973685, 'newest l. o. l. surprise': 0.5685084, 'rocker': 0.3841529, 'background': 0.5356426, 'adorable': 0.48832926, 'towel': 0.6517847, 'doll': 0.37356883}","['towel wrap', 'l.o.l. surprise!', 'the l. o. l. surprise']"
+912220805,"{'manual strainer': 0.49431175, 'strainer': 0.49902868, 'tomato milling machine': 0.7719225}","['manual strainer', 'tomato milling machine']"
+52289549,{'hardcover': 0.5130261},['hardcover']
+42882215,{'light': 0.49333006},[]
+395998106,{'barbecue skewers': 0.93903327},['barbecue skewers']
+295610961,{'duster': 0.98596877},['duster']
+612326448,{},[]
+355247976,"{'disney baby by j.l. childress': 0.43168247, 'travel bag': 0.98939836}",['disney baby by j.l. childress']
+10448019,"{""thomas'"": 0.41245478, 'bagels': 0.9992307}",['bagels']
+706040087,{'auto lock hanger holder': 0.98707986},['auto lock hanger holder']
+611797688,{'target practice toys': 0.80369115},['target practice toys']
+412558181,{'socket arm': 0.8823269},['socket arm']
+989990182,{'painting kit': 0.7595695},['painting kit']
+942579927,{'pillow case': 0.91541743},['pillow case']
+105783965,"{'tire repair': 0.9828023, 'buffing wheel': 0.5137172}",['tire repair']
+894315294,{'tablecloth': 0.9986143},['tablecloth']
+933586118,{'face mask bowl set': 0.6726218},['face mask bowl set']
+514974907,{'ac / dc adapter': 0.6301221},['ac / dc adapter']
+490665387,"{'sticker': 0.7880878, 'shotgun shells': 0.98879087}","['sticker', 'shotgun shells']"
+283971267,{'battery': 0.9723894},['battery']
+235079481,{'stripping tool': 0.6882154},['stripping tool']
+777308202,{'tea - slenderizer': 0.505911},['tea - slenderizer']
+924431074,{'doll stroller': 0.6696309},['doll stroller']
+661892211,{},[]
+671999887,{},[]
+267874807,"{'canvas print': 0.814558, 'root turnip': 0.74912256, 'canvas': 0.55774987}",['canvas print']
+527312463,{},[]
+787025806,"{'bikes': 0.9995852, 't-shirt': 0.9994775}",['t-shirt']
+19801044,{},[]
+770440325,{'ammo': 0.93639654},['ammo']
+503636809,"{'barbie': 0.8524471, 'dress': 0.931289}","['barbie', 'dress']"
+141363916,{},[]
+50285019,{'seat covers for car and suv': 0.27614662},['seat covers for car and suv']
+681061713,{'watch wristband straps': 0.50532365},['watch wristband straps']
+213369617,{'charm': 0.8961113},[]
+954549913,{'table lighting stick lamp': 0.28959796},['table lighting stick lamp']
+358258087,"{'pet house': 0.9214031, 'pet hamster': 0.23690324}","['pet house', 'pet hamster']"
+227560402,"{'sleepover accessories': 0.9948691, 'sleepover accessories play set': 0.6718371, 'snacks': 0.99605674, 'make sleepovers': 0.8587299, 'play set': 0.73493385}","['sleepover accessories', 'sleepover accessories play set']"
+41047036,{'screen protector': 0.99988556},['screen protector']
+780124156,"{'dermacare': 0.8503551, 'shampoo': 0.9641186, 'gently cares': 0.9222805, 'conditioner': 0.87289035, 'dandruff treatments': 0.65124696, 'little flakes': 0.8594853}","['dermacare', 'shampoo', 'dandruff treatments']"
+929394772,"{'baby puppy accessory': 0.35482454, 'puppy accessory': 0.34029907}","['baby puppy accessory', 'puppy accessory']"
+153209626,"{'comby interchangeable': 0.27614057, 'interchangeable sampler': 0.23892596, 'perfect for any knitter!': 0.5196488}","['comby interchangeable', 'interchangeable sampler']"
+24633993,"{'storage box': 0.96698785, 'arts and crafts supply storage': 0.892576, 'point for a one-tray': 0.6661182, 'grip handle': 0.89923173, 'coordinating latches': 0.6164918, 'tray box': 0.16461015}",['arts and crafts supply storage']
+465288654,"{'sleeping pad': 0.97756195, 'mattress': 0.99978447, 'approx': 0.47509283, 'carry bag': 0.9739328, 'pillow needs the pump': 0.8372606, 'pillow': 0.9784508, 'air valve': 0.9311429, 'air mattress': 0.99671143}","['sleeping pad', 'carry bag', 'air mattress']"
+139899465,{'carrito de elote': 0.5818814},['carrito de elote']
+124558445,"{'t-shirt tee': 0.6045003, 'computer monitors': 0.5634906, 't-shirt': 0.83446896, 'shirt': 0.9505047}",['t-shirt']
+765196018,"{'perfect for': 0.36862925, 'frame': 0.7721184, 'trampoline': 0.9961878, 'stereo': 0.6860058, 'safety guard': 0.4562355, 'rail support net': 0.46275416}",['trampoline']
+805865464,"{'vanity': 0.8277955, 'pretend play dressing table': 0.41547847, 'vanity playset': 0.42566073, 'batteries': 0.79724175, 'flashing lights': 0.7583087, 'hair dryer': 0.5953793, 'dressing table play set': 0.24763541, 'containers': 0.64915884, 'vanity set': 0.9412227}",['vanity playset']
+539946216,"{'batteries to the radio controller': 0.9556492, 'chassis': 0.46328163, 'drive system': 0.42202774, 'monster trucks': 0.4188825, 'toy': 0.5753549}",[]
+35067455,"{'pickles': 0.999508, 'breaded to perfection': 0.46375173}",['pickles']
+14560047,"{'both steel jack stands': 0.9506461, 'jack stand': 0.5451989, 'jack stands': 0.93347865, 'jack stands are equipped': 0.60282385}","['both steel jack stands', 'jack stands']"
+218302182,"{'stand up bag': 0.8934532, 'chewy': 0.87343204, 'fruit chews': 0.9950873}",['stand up bag']
+121589837,"{'photo print': 0.76382625, 'wine tasting glasses': 0.93320364, 'protective tube': 0.6166329, 'artist': 0.4358034, 'tasting glasses': 0.54134166, 'poster print': 0.98441005}",['wine tasting glasses']
+786834227,"{'headphones': 0.9945665, 'microphone': 0.9386044, 'battery allows': 0.5918186, 'headband': 0.913211, 'ear cushions': 0.95162034, 'audio cable': 0.8251098}",['headphones']
+791596268,"{'doormat rug': 0.8976432, 'bath mat': 0.94666, 'decor': 0.6366063}","['doormat rug', 'bath mat']"
+261065222,"{'wall plastic backdrop': 0.5118462, 'decor': 0.40917167, 'party supplies': 0.877922, 'fireplace': 0.9564579, 'backdrop': 0.9844626, 'cardboard': 0.53654706}",['wall plastic backdrop']
+5969631,"{'dutch oven': 0.9112062, 'meals': 0.6489357, 'pot': 0.9344473, 'dutch ovens': 0.9999275}","['dutch oven', 'dutch ovens']"
+930659833,"{'supercab': 0.75219333, 'window covers': 0.69171464}",['window covers']
+143397628,"{'non dairy milk substitute': 0.78901577, 'cereal': 0.9801954, 'granola': 0.70401174, 'calcium': 0.7784332, 'coffee creamer': 0.61878663, 'oats': 0.39578933, 'almond milks': 0.9994337, 'plant milk': 0.6195472, 'almond milk': 0.9445732, 'almondmilk': 0.2968902}",['almond milk']
+698751537,"{'movie': 0.98779655, 'card': 0.50872266}",['card']
+804957978,"{'artificial': 0.85599977, 'tree embodies': 0.5191411, 'pine tree': 0.4103804, 'vase': 0.82722414, 'arrangement stands': 0.5283866, 'tree comes': 0.74940765, 'christmas trees': 0.99804497, 'ornaments': 0.5070893}",['christmas trees']
+342606832,"{'dumbbell': 0.9964995, 'engage your arms': 0.76409876, 'dumbbells': 0.9999943}","['dumbbell', 'dumbbells']"
+338275834,{'wax melts': 0.9995729},['wax melts']
+178954378,"{'batteries to the radio controller': 0.9556492, 'rc monster truck suv': 0.6842625, 'chassis': 0.46328163, 'drive system': 0.42202774, 'monster truck suv': 0.17932568}",['rc monster truck suv']
+942620427,"{'savory sauces': 0.644084, 'reach': 0.9790398, 'juice': 0.9177155, 'meals': 0.5777762, 'juices': 0.9886447}","['juice', 'juices']"
+141915668,"{'sweater': 0.9985829, 'dress': 0.97318816}",['sweater']
+979653573,"{'barbie': 0.99270445, 'dolls': 0.921295, 'dollhouse': 0.6043611, 'bedroom furniture set': 0.98053104, 'headboard': 0.84750324, 'barbies': 0.75177556, ""doll's"": 0.56931025}",['dollhouse']
+55382502,"{'bright gloss': 0.83890146, 'bar stool': 0.8937276, 'barstools': 0.95295626, 'seat adjusts': 0.4912341}",['bar stool']
+238397352,{'game': 0.99785936},[]
+635146736,"{'jack stands': 0.9700775, 'sturdy base': 0.5663757}",['jack stands']
+20523468,"{'window insulator': 0.970617, 'window kits': 0.9250676}",['window insulator']
+960988924,"{'sweetener': 0.98247427, ""n'joy"": 0.8247125, 'suggestion': 0.4776032, 'sweeteners': 0.55638665, 'sugar': 0.49668935, 'aspartame': 0.74683064}","['sweetener', 'sweeteners']"
+740140875,"{'icing art': 0.96868527, 'trans-fat free!': 0.56913984, 'cupcake toppers': 0.5525543, 'cake topper': 0.9994813, 'water': 0.75723153, 'contains soy': 0.4866607, 'zip lock': 0.8819601, 'bag': 0.5126146, 'icing paper': 0.6941604, 'cake edible images': 0.55918866, 'corn syrup': 0.3480549, 'icing sheets': 0.6792517, 'icing images': 0.92875725, 'cake': 0.6491158}","['cake topper', 'cake edible images']"
+142240963,{'toys': 0.99833626},['toys']
+330922481,"{'car air vent': 0.45463714, 'air vent car mount': 0.5877766, 'car mount': 0.9976948, 'mount your phone': 0.5838313}","['car air vent', 'air vent car mount']"
+5357842,{},[]
+550554639,{},[]
+486582789,{'foaming bath': 0.2616317},['foaming bath']
+473617898,{'ear pads cushions': 0.92100424},['ear pads cushions']
+15641321,{'hamper': 0.99153024},['hamper']
+966434376,{'pipe tee': 0.44786662},['pipe tee']
+753463074,{},[]
+417987692,"{'filament tape': 0.9737452, 'yarn': 0.90608746}",['filament tape']
+955813863,"{'cooling fan': 0.58801323, 'console': 0.4613111}",['cooling fan']
+339656464,{'water pills': 0.8641042},['water pills']
+979864371,"{'car decorative accessory': 0.82696974, 'lip sticker': 0.44188875}",['car decorative accessory']
+845142462,"{'beverage': 0.90443933, 'organizer': 0.82164454}",['organizer']
+144701210,{'hats': 0.5857551},['hats']
+50676287,{'post light': 0.67532325},['post light']
+889583168,"{'ih': 0.530154, 'car mount': 0.99553347}","['ih', 'car mount']"
+35587215,{'bicycle tire liner': 0.5859219},['bicycle tire liner']
+816429347,{'goodie bag': 0.8247015},['goodie bag']
+163700484,{'table leg': 0.72163707},['table leg']
+840554493,{'contact lens cases': 0.99131185},['contact lens cases']
+932996716,{'bulb': 0.81828284},['bulb']
+932931916,"{'wrapping': 0.9841698, 'storage bag': 0.8753303, 'paper storage container': 0.80704147}","['wrapping', 'storage bag', 'paper storage container']"
+56086598,{},[]
+935344602,{'cake plate stand': 0.853149},['cake plate stand']
+811290770,{'hat pin': 0.54064465},['hat pin']
+132670327,{'slipper': 0.99192274},['slipper']
+135644879,"{'pet feline': 0.2672001, 'poster': 0.7825311, 'frames': 0.6623172}",['pet feline']
+417704750,{'desserts': 0.749897},['desserts']
+949455450,{'wall art': 0.99096775},['wall art']
